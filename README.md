@@ -1,7 +1,6 @@
 # Stocks-PSAR-Analyzer-App
 Python-based Algo Trading project that provides a comprehensive analysis of financial markets using the Parabolic Stop and Reverse (PSAR) indicator. 
-
-This Python-based project provides a comprehensive analysis of financial markets using the Parabolic Stop and Reverse (PSAR) indicator. The project offers features to calculate PSAR values, visualize data, identify buy and short signals, and analyze percentage gain or loss for specific trading strategies.
+The project offers features to calculate PSAR values, visualize data, identify buy and short signals, and analyze percentage gain or loss for specific trading strategies.
 
 ## Features
 
